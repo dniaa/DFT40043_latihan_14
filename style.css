@@ -1,0 +1,25 @@
+body {
+    background-color:plum;
+    background-image: url('cloud.jpg');
+    background-attachment: fixed ;
+    
+}
+
+div {
+    width: 1000px;
+    height: 1500px;
+    background-image: url('bunga.jpg');
+    background-color: salmon;
+    background-repeat: no-repeat;
+    /* background-position: right top; */
+    background-position-x: 50px ;
+    background-position-y: 50px ;
+}
+
+h1 {
+    text-align: center;
+    background-image: url('bunga.jpg');
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(27, 26, 26);
+    outline: darkred 2px solid;
+}
