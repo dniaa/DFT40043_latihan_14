@@ -1,15 +1,17 @@
 body {
-    background-color: bisque;
-    background-image: url('images/awan.jpg');
-    background-attachment: fixed;
+    background-color:plum;
+    background-image: url(image/cloud.jpg);
+    background-attachment: fixed ;
+    
 }
-div{
-    background-color:palevioletred;
+
+div {
     width: 1000px;
     height: 1500px;
-    background-image: url('images/bunga.jpg');
-    background-repeat:no-repeat;
-   /* background-position: right top;*/
-    background-position-x: 50px;
-    background-position-y: 50px;  
+    background-image: url(image/bunga.jpg);
+    background-color: salmon;
+    background-repeat: no-repeat;
+    /* background-position: right top; */
+    background-position-x: 50px ;
+    background-position-y: 50px ;
 }
